@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gibral Haikal Faiz 👋</h1>
+<h1 align="center">Hi, I'm Gibral Haikal Faiz!</h1>
 <p align="center">
   <b>Industrial Informatics Engineering Student</b> @ Politeknik Manufaktur Bandung (POLMAN)<br/>
   Bridging software, data, and industrial technology — from the shop floor to the dashboard.
