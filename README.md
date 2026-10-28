@@ -42,7 +42,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Line Follower Robot](https://github.com/gbrlhf/line-follower-robot)** | Autonomous robot that follows a track using infrared line sensors and motor control logic. | Microcontroller, IR Sensors, Motor Driver, C/C++ |
+| **Line Follower Robot** | Autonomous robot that follows a track using infrared line sensors and motor control logic. | Microcontroller, IR Sensors, Motor Driver, C/C++ |
 
 ### Web & Mobile
 
