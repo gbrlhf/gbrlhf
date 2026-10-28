@@ -35,7 +35,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | **[Casting Defect Detection](https://github.com/gbrlhf/casting-defect-detection)** | Visual inspection AI that classifies cast metal products as OK / Defective, with Grad-CAM heatmaps to explain decisions and a web demo for QC operators. Evaluated with a focus on defect recall, since missed defects are the costliest error on a production line. | Python, TensorFlow/PyTorch, Transfer Learning, Grad-CAM, Streamlit |
-| **[Smart Water Filling System](https://github.com/gbrlhf/smart-water-filling)** | Automatic liquid filling machine integrated with a Manufacturing Execution System (MES) dashboard to track production output and machine status, with a 3D rotary-conveyor simulation. | Unity, Blender, MongoDB, Web Dashboard, ESP32 |
+| **[Smart Filling Water](https://github.com/gbrlhf/smart-filling-water)** | Automatic liquid filling machine integrated with a Manufacturing Execution System (MES) dashboard to track production output and machine status, with a 3D rotary-conveyor simulation. | Unity, Blender, MongoDB, Web Dashboard, ESP32 |
 | **WaferSense AI** | Semiconductor wafer defect analysis: supervised classification, unsupervised clustering, and Q-Learning for control optimization. *My role: Flask backend, Docker setup, PostgreSQL database.* | Python, Flask, Docker, PostgreSQL, scikit-learn |
 
 ### Embedded & Robotics
